@@ -9,18 +9,12 @@ darkplus is a small program I made that runs through terminal (or any other term
 ```
 	pip3 install Pillow
 ```
-2. Homebrew [brew.sh](brew.sh)
-```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
+2. Homebrew [(brew.sh)](brew.sh)
 	- wallpaper
-```
-brew install wallpaper
-```
+		- > brew install wallpaper
+
 	- dark-mode
-```
-brew install dark-mode
-```
+		- > brew install dark-mode
 
 ### **Installation**
 
@@ -36,7 +30,7 @@ to open my config in nano. If you're using bash, you'd type
 ```
 nano .bash_profile
 ```
-.
+
 
 Add the following lines to your shell's config file:
 ```
